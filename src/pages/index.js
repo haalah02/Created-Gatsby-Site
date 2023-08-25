@@ -1,20 +1,5 @@
 import * as React from "react"
 import { Link } from "gatsby";
-
-const IndexPage = () => {
-  return (
-    <div>
-      <footer>
-        <div>
-          <Link to="./cookie-policy.md">Cookie Policy</Link>
-        </div>
-      </footer>
-    </div>
-  );
-};
-
-export default IndexPage;
-
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -177,6 +162,15 @@ const IndexPage = () => {
             </span>
           </li>
         ))}
+         {/* Link to Cookie Policy */}
+         <li style={listItemStyles}>
+          <span>
+            <Link style={linkStyle} to="/cookie-policy.js">
+              Cookie Policy
+            </Link>
+            <p style={descriptionStyle}>Learn about our cookie policy.</p>
+          </span>
+        </li>
       </ul>
       <img
         alt="Gatsby G Logo"
