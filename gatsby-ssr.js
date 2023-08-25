@@ -8,7 +8,7 @@ export const replaceComponentRenderer = ({ props }) => {
     <footer>
       {layout.footer}
       <div>
-        <Link to="/cookie-policy">Cookie Policy</Link>
+        <Link to="src/pages/cookie-policy.md">Cookie Policy</Link>
       </div>
     </footer>
   );

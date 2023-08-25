@@ -1,4 +1,19 @@
 import * as React from "react"
+import { Link } from "gatsby";
+
+const IndexPage = () => {
+  return (
+    <div>
+      <footer>
+        <div>
+          <Link to="./cookie-policy.md">Cookie Policy</Link>
+        </div>
+      </footer>
+    </div>
+  );
+};
+
+export default IndexPage;
 
 const pageStyles = {
   color: "#232129",
