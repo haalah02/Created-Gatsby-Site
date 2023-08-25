@@ -15,7 +15,6 @@ const CookiePolicyPage = () => {
             border-radius: 2px;
             cursor: pointer;
           }
-          /* Add your other CSS styles here */
         `}
       </style>
       <h1 className="cookie-policy-h1">Cookie Policy</h1>
