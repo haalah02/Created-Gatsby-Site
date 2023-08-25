@@ -165,7 +165,7 @@ const IndexPage = () => {
          {/* Link to Cookie Policy */}
          <li style={listItemStyles}>
           <span>
-            <Link style={linkStyle} to="/cookie-policy.js">
+            <Link style={linkStyle} to="src/pages/cookie-policy.js">
               Cookie Policy
             </Link>
             <p style={descriptionStyle}>Learn about our cookie policy.</p>
