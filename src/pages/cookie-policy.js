@@ -59,3 +59,4 @@ const CookiePolicyPage = () => {
 };
 
 export default CookiePolicyPage;
+export const Head = () => <title>Cookie Policy Page</title>
