@@ -162,6 +162,17 @@ const IndexPage = () => {
             </span>
           </li>
         ))}
+
+        {/* Link to Privacy Policy */}
+        <li style={listItemStyles}>
+          <span>
+            <Link style={linkStyle} to="/privacy-policy/">
+              Privacy Policy
+            </Link>
+            <p style={descriptionStyle}>Learn about our privacy policy.</p>
+          </span>
+        </li>
+
          {/* Link to Cookie Policy */}
          <li style={listItemStyles}>
           <span>
