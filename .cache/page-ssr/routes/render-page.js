@@ -92,13 +92,15 @@ exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-js */ "component---src-pages-404-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=default */ "./src/pages/404.js?export=default")),
   "component---src-pages-cookie-policy-js": () => __webpack_require__.e(/*! import() | component---src-pages-cookie-policy-js */ "component---src-pages-cookie-policy-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/cookie-policy.js?export=default */ "./src/pages/cookie-policy.js?export=default")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default"))
+  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
+  "component---src-pages-privacy-policy-js": () => __webpack_require__.e(/*! import() | component---src-pages-privacy-policy-js */ "component---src-pages-privacy-policy-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/privacy-policy.js?export=default */ "./src/pages/privacy-policy.js?export=default"))
 };
 
 exports.head = {
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-jshead */ "component---src-pages-404-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=head */ "./src/pages/404.js?export=head")),
   "component---src-pages-cookie-policy-js": () => __webpack_require__.e(/*! import() | component---src-pages-cookie-policy-jshead */ "component---src-pages-cookie-policy-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/cookie-policy.js?export=head */ "./src/pages/cookie-policy.js?export=head")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head"))
+  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head")),
+  "component---src-pages-privacy-policy-js": () => __webpack_require__.e(/*! import() | component---src-pages-privacy-policy-jshead */ "component---src-pages-privacy-policy-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/privacy-policy.js?export=head */ "./src/pages/privacy-policy.js?export=head"))
 };
 
 /***/ }),
